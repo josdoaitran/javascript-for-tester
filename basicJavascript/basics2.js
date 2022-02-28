@@ -10,7 +10,7 @@ else
     console.log("condition not satisfied")
 }
 let i = 0
-while(i>10)
+while(i<10)
 {
 i++
 console.log(i)
@@ -19,7 +19,7 @@ console.log(i)
 do
 {
 i++
-}while(i>10);
+}while(i<20);
 console.log(i)
 // 2 and   5 
 //  from 1 to 10 give me common multiple values of 2 and 5
